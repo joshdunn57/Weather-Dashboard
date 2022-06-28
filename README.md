@@ -15,5 +15,4 @@ During this challenge, I was given the task to present the current and future we
 
 https://joshdunn57.github.io/Weather-Dashboard/
 
-
-file:///Users/joshdunn/Downloads/screencapture-127-0-0-1-5500-index-html-2022-06-27-23_32_55.pdf
+![image](https://user-images.githubusercontent.com/105329236/176112179-15783ac3-73d5-492e-90eb-12897942b160.png)
